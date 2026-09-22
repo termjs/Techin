@@ -1,4 +1,4 @@
-# 🚀 Techin JavaScript modulis
+# 🚀 TECHIN JavaScript modulis
 
 Repo talpinamos visos **JavaScript modulio** užduotys, atliktos [TECHIN](https://www.techin.lt/) kurse. Visas kelias nuo `console.log("Hello World")` iki realaus kodo.
 
@@ -21,11 +21,11 @@ Repo talpinamos visos **JavaScript modulio** užduotys, atliktos [TECHIN](https:
 | 08  | [`assignment08_loops1`](./assignment08_loops1) | Ciklai `for` / `while` | 10 |
 | 09  | [`assignment09_loops2`](./assignment09_loops2) | Ciklai (pratęsimas, `do...while`) | 17 |
 | 10  | [`assignment10_arrays`](./assignment10_arrays) | Masyvai (arrays) | 19 |
-| —   | [`pasikartojimas01`](./pasikartojimas01) | Pakartojimo užduotys | 9 |
+| 11  | [`assignment11_repetition`](./assignment11_repetition) | (TODO: pavadinimas) | 19 |
 <!-- AUTO-TABLE:END -->
 
 <!-- AUTO-TOTAL:START -->
-**Iš viso:** 11 temos, 134 atskirų užduočių failų.
+**Iš viso:** 11 temos, 144 atskirų užduočių failų.
 <!-- AUTO-TOTAL:END -->
 
 > Lentelė ir suma aukščiau generuojama automatiškai — žr. [Auto turinio atnaujinimas](#-auto-turinio-atnaujinimas).
