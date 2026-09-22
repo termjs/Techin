@@ -33,7 +33,9 @@ function discoverFolders() {
 }
 
 function countTaskFiles(folder) {
-  const dir = path.join(ROOT, folder);
+  const base = path.join(ROOT, folder);
+  const tasksSubdir = path.join(base, "tasks");
+  const dir = fs.existsSync(tasksSubdir) ? tasksSubdir : base;
   if (!fs.existsSync(dir)) return 0;
   return fs.readdirSync(dir).filter((f) => /^task[\d_]*\.js$/i.test(f)).length;
 }
