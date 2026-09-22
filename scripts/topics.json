@@ -53,5 +53,10 @@
     "num": "11",
     "folder": "assignment11_repetition",
     "title": "Kartojimo užduotys"
+  },
+  {
+    "num": "12",
+    "folder": "assignment12_dates",
+    "title": "Datos ir laikas"
   }
 ]
