@@ -21,7 +21,7 @@ Repo talpinamos visos **JavaScript modulio** užduotys, atliktos [TECHIN](https:
 | 08  | [`assignment08_loops1`](./assignment08_loops1) | Ciklai `for` / `while` | 10 |
 | 09  | [`assignment09_loops2`](./assignment09_loops2) | Ciklai (pratęsimas, `do...while`) | 17 |
 | 10  | [`assignment10_arrays`](./assignment10_arrays) | Masyvai (arrays) | 19 |
-| 11  | [`assignment11_repetition`](./assignment11_repetition) | (TODO: pavadinimas) | 19 |
+| 11  | [`assignment11_repetition`](./assignment11_repetition) | Kartojimo užduotys | 19 |
 <!-- AUTO-TABLE:END -->
 
 <!-- AUTO-TOTAL:START -->
@@ -42,7 +42,7 @@ cd Techin/assignment10_arrays
 # atidaryk index.html naršyklėje arba paleisk su Live Server
 ```
 
-Kai kurie aplankai (`assignment08_loops1`, `assignment10_arrays`, `pasikartojimas01`) neturi `index.html` — juos patogiausia paleisti per Node.js:
+Kai kurie aplankai (`assignment08_loops1`, `assignment10_arrays` ir t.t) neturi `index.html` — juos patogiausia paleisti per Node.js:
 
 ```bash
 node task1.js
