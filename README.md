@@ -23,10 +23,11 @@ Repo talpinamos visos **JavaScript modulio** užduotys, atliktos [TECHIN](https:
 | 10  | [`assignment10_arrays`](./assignment10_arrays) | Masyvai (arrays) | 19 |
 | 11  | [`assignment11_repetition`](./assignment11_repetition) | Kartojimo užduotys | 19 |
 | 12  | [`assignment12_dates`](./assignment12_dates) | Datos ir laikas | 10 |
+| 13  | [`assignment13_strings`](./assignment13_strings) | (TODO: pavadinimas) | 21 |
 <!-- AUTO-TABLE:END -->
 
 <!-- AUTO-TOTAL:START -->
-**Iš viso:** 12 temos, 154 atskirų užduočių failų.
+**Iš viso:** 13 temos, 175 atskirų užduočių failų.
 <!-- AUTO-TOTAL:END -->
 
 > Lentelė ir suma aukščiau generuojama automatiškai — žr. [Auto turinio atnaujinimas](#-auto-turinio-atnaujinimas).
